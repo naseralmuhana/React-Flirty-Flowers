@@ -1,0 +1,6 @@
+export * from "./navbarData"
+export * from "./headerData"
+export * from "./featuredData"
+export * from "./aboutData"
+export * from "./galleryData"
+export * from "./footerData"
